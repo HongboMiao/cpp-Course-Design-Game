@@ -1,5 +1,5 @@
 # cpp-Course-Design-Game
-This is a c++ course design by Hongbo Miao
+This is a C++ course design project completed by Hongbo Miao.
 
 # C++ Coursework Codebase
 
